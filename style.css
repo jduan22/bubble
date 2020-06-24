@@ -1,7 +1,7 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: font-family: 'Allerta', sans-serif;
+  font-family:'Allerta', sans-serif;
 /*   margin: 2em; */
   background-color: lightblue;
   
@@ -14,7 +14,6 @@ body {
 
 h1 {
   display: flex;
-  font-family: font-family: 'Allerta', sans-serif;
   justify-content: center;
   color: navy;
   font-size: 150px;
@@ -44,13 +43,10 @@ h1 {
 .button {
   padding: 2px;
   margin: 5px;
-  
   background-color:
   border: 
 }
-.type{
-  font
-}
+
 
 .button:hover {
   background-color: lightblue;
@@ -68,7 +64,6 @@ h1 {
 .games-header{
   display: flex;
   justify-content: center;
-  font-family: font-family: 'Allerta', sans-serif;
   color: navy;
   font-size: 30px;
 }
@@ -83,7 +78,6 @@ h1 {
 .about {
   display: flex;
   justify-content: center;
-  font-family: allerta;
   color: navy;
   font-size: 30px;
 }
@@ -93,18 +87,24 @@ h1 {
 
 .facts {
   display: flex;
-  font-family: allerta;
   text-align: center;
   color: navy;
   background-color: #b19cd9;
   font-size: 15px;
   padding: 8%;
   padding-left: 10%;
+  flex-
+}
+
+h3 {
+  display: flex; 
+  flex-flow: column wrap;
+  text-align: center;
+  color: black;
 }
 
 /* ABOUT PAGE. LETS HOPE THIS WORKS
-
-/* Rectangle 3 */
+/* Rectangle 3 
 
 
 position: absolute;
@@ -116,7 +116,7 @@ top: 32px;
 background: #C4C4C4;
 
 
-/* Resources */
+/* Resources
 
 
 position: absolute;
@@ -135,7 +135,7 @@ color: #000000;
 
 
 
-/* About */
+/* About 
 
 
 position: absolute;
@@ -154,7 +154,7 @@ color: #AA35D2;
 
 
 
-/* LOGO */
+/* LOGO 
 
 
 position: absolute;
@@ -173,7 +173,7 @@ color: #000000;
 
 
 
-/* Home */
+/* Home 
 
 
 position: absolute;
@@ -192,7 +192,7 @@ color: #000000;
 
 
 
-/* Rectangle 6 */
+/* Rectangle 6 
 
 
 position: absolute;
@@ -204,7 +204,7 @@ top: 136px;
 background: #C4C4C4;
 
 
-/* Rectangle 7 */
+/* Rectangle 7 
 
 
 position: absolute;
@@ -215,11 +215,11 @@ top: 657px;
 
 background: #C4C4C4;
 backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
+/* Note: backdrop-filter has minimal browser support 
 
 
 
-/* Rectangle 9 */
+/* Rectangle 9 
 
 
 position: absolute;
@@ -230,11 +230,11 @@ top: 657px;
 
 background: #C4C4C4;
 backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
+/* Note: backdrop-filter has minimal browser support 
 
 
 
-/* Question */
+/* Question 
 
 
 position: absolute;
@@ -252,11 +252,11 @@ line-height: 37px;
 color: #000000;
 
 backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
+/* Note: backdrop-filter has minimal browser support
 
 
 
-/* Rectangle 8 */
+/* Rectangle 8 
 
 
 position: absolute;
@@ -267,11 +267,25 @@ top: 730px;
 
 background: #C4C4C4;
 backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
+/* Note: backdrop-filter has minimal browser support 
 
 
 
-/* Rectangle 10 */
+/* Rectangle 10 
+
+position: absolute;
+width: 661px;
+height: 55px;
+left: 23px;
+top: 657px;
+
+background: #C4C4C4;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support 
+
+
+
+/* Rectangle 11 
 
 
 position: absolute;
@@ -282,26 +296,10 @@ top: 657px;
 
 background: #C4C4C4;
 backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
+/* Note: backdrop-filter has minimal browser support 
 
 
-
-/* Rectangle 11 */
-
-
-position: absolute;
-width: 661px;
-height: 55px;
-left: 23px;
-top: 657px;
-
-background: #C4C4C4;
-backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
-
-
-
-/* Question */
+/* Question 
 
 
 position: absolute;
@@ -319,11 +317,11 @@ line-height: 37px;
 color: #000000;
 
 backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
+/* Note: backdrop-filter has minimal browser support 
 
 
 
-/* Rectangle 12 */
+/* Rectangle 12
 
 
 position: absolute;
@@ -334,11 +332,11 @@ top: 730px;
 
 background: #C4C4C4;
 backdrop-filter: blur(4px);
-/* Note: backdrop-filter has minimal browser support */
+/* Note: backdrop-filter has minimal browser support 
 
 
 
-/* Rectangle 13 */
+/* Rectangle 13
 
 
 position: absolute;
@@ -350,7 +348,7 @@ top: 657px;
 background: #C4C4C4;
 
 
-/* Rectangle 14 */
+/* Rectangle 14 
 
 
 position: absolute;
@@ -362,7 +360,7 @@ top: 736px;
 background: #C4C4C4;
 
 
-/* mission */
+/* mission
 
 
 position: absolute;
@@ -381,7 +379,7 @@ color: #000000;
 
 
 
-/* Ellipse 1 */
+/* Ellipse 1
 
 
 position: absolute;
@@ -393,7 +391,7 @@ top: 1255px;
 background: #C4C4C4;
 
 
-/* Ellipse 2 */
+/* Ellipse 2
 
 
 position: absolute;
@@ -405,7 +403,7 @@ top: 1255px;
 background: #C4C4C4;
 
 
-/* image */
+/* image
 
 
 position: absolute;
@@ -425,7 +423,7 @@ color: #000000;
 
 
 
-/* Rectangle 15 */
+/* Rectangle 15 
 
 
 position: absolute;
@@ -437,8 +435,7 @@ top: 1179px;
 background: #C4C4C4;
 
 
-/* ABOUT US */
-
+/* ABOUT US
 
 position: absolute;
 width: 162px;
@@ -456,8 +453,7 @@ color: #000000;
 
 
 
-/* jenny */
-
+/* jenny 
 
 position: absolute;
 width: 61px;
@@ -475,7 +471,7 @@ color: #000000;
 
 
 
-/* lucy */
+/* lucy 
 
 
 position: absolute;
@@ -489,14 +485,14 @@ font-style: normal;
 font-weight: normal;
 font-size: 24px;
 line-height: 28px;
-/* identical to box height */
+/* identical to box height 
 
 
 color: #000000;
 
 
 
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 
 position: absolute;
@@ -516,7 +512,7 @@ color: #000000;
 
 
 
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 
 position: absolute;
@@ -536,7 +532,7 @@ color: #000000;
 
 
 
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 
 position: absolute;
@@ -556,7 +552,7 @@ color: #000000;
 
 
 
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 
 position: absolute;
@@ -576,7 +572,7 @@ color: #000000;
 
 
 
-/* image */
+/* image 
 
 
 position: absolute;
@@ -596,7 +592,7 @@ color: #000000;
 
 
 
-/* answers */
+/* answers 
 
 
 position: absolute;
@@ -619,7 +615,7 @@ backdrop-filter: blur(4px);
 
 
 
-/* blockquote */
+/* blockquote 
 
 
 position: absolute;
@@ -639,7 +635,7 @@ color: #000000;
 
 
 
-/* STATS!!!!?!?!?!?! */
+/* STATS!!!!?!?!?!?! 
 
 
 position: absolute;
@@ -654,4 +650,5 @@ font-weight: normal;
 font-size: 31.7236px;
 line-height: 37px;
 
-color: #000000;
+color: #000000; */
+
