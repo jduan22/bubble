@@ -4,8 +4,12 @@ body {
   font-family: helvetica, arial, sans-serif;
 /*   margin: 2em; */
   background-color: lightblue;
-  border: 2px dotted purple;
   
+}
+
+.home-body {
+  border: 2px dotted purple;
+  margin-top: 4%;
 }
 
 h1 {
@@ -40,6 +44,8 @@ h1 {
 .button {
   padding: 2px;
   margin: 5px;
+  background-color:
+  border: 
   
     
     
