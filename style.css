@@ -3,9 +3,19 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
+  background-color: lightblue;
+  border: 2px dotted white;
 }
 
 h1 {
-  font-style: italic;
-  color: #373fff;
+  display: flex;
+  font-family: allerta;
+  justify-content: center;
+  color: navy;
+  
+}
+
+.topnav {
+  display: flex;
+  flex-end: right;
 }
