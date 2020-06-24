@@ -91,9 +91,9 @@ h1 {
   color: navy;
   background-color: #b19cd9;
   font-size: 15px;
-  padding: 8%;
-  padding-left: 10%;
-  flex-
+  padding: 5%;
+  padding-left: 6%;
+  flex-flow: column wrap;
 }
 
 h3 {
