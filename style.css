@@ -37,3 +37,16 @@ h1 {
   padding: 10%;
   
 }
+.button {
+  padding: 2px;
+  margin: 5px;
+  
+    
+    
+}
+
+.calm {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5%;
+}
