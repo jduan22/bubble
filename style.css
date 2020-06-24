@@ -1,7 +1,7 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
+  font-family: font-family: 'Allerta', sans-serif;
 /*   margin: 2em; */
   background-color: lightblue;
   
@@ -14,7 +14,7 @@ body {
 
 h1 {
   display: flex;
-  font-family: allerta;
+  font-family: font-family: 'Allerta', sans-serif;
   justify-content: center;
   color: navy;
   font-size: 150px;
@@ -48,6 +48,9 @@ h1 {
   background-color:
   border: 
 }
+.type{
+  font
+}
 
 .button:hover {
   background-color: lightblue;
@@ -65,7 +68,7 @@ h1 {
 .games-header{
   display: flex;
   justify-content: center;
-  font-family: allerta;
+  font-family: font-family: 'Allerta', sans-serif;
   color: navy;
   font-size: 30px;
 }
@@ -84,6 +87,571 @@ h1 {
   color: navy;
   font-size: 30px;
 }
-.home-body {
-  
+.resources {
+  font-size:30px
 }
+
+.facts {
+  display: flex;
+  font-family: allerta;
+  text-align: center;
+  color: navy;
+  background-color: #b19cd9;
+  font-size: 15px;
+  padding: 8%;
+  padding-left: 10%;
+}
+
+/* ABOUT PAGE. LETS HOPE THIS WORKS
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1349px;
+height: 87px;
+left: 26px;
+top: 32px;
+
+background: #C4C4C4;
+
+
+/* Resources */
+
+
+position: absolute;
+width: 174px;
+height: 22px;
+left: 1061px;
+top: 46px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31.7236px;
+line-height: 37px;
+
+color: #000000;
+
+
+
+/* About */
+
+
+position: absolute;
+width: 186px;
+height: 22px;
+left: 947px;
+top: 46px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31.7236px;
+line-height: 37px;
+
+color: #AA35D2;
+
+
+
+/* LOGO */
+
+
+position: absolute;
+width: 144px;
+height: 26px;
+left: 80px;
+top: 49px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31.7236px;
+line-height: 37px;
+
+color: #000000;
+
+
+
+/* Home */
+
+
+position: absolute;
+width: 91px;
+height: 29px;
+left: 841px;
+top: 46px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31.7236px;
+line-height: 37px;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1349px;
+height: 505px;
+left: 26px;
+top: 136px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 661px;
+height: 55px;
+left: 23px;
+top: 657px;
+
+background: #C4C4C4;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 661px;
+height: 55px;
+left: 23px;
+top: 657px;
+
+background: #C4C4C4;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Question */
+
+
+position: absolute;
+width: 451px;
+height: 55px;
+left: 58px;
+top: 673px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31.7236px;
+line-height: 37px;
+
+color: #000000;
+
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 661px;
+height: 427px;
+left: 23px;
+top: 730px;
+
+background: #C4C4C4;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 661px;
+height: 55px;
+left: 23px;
+top: 657px;
+
+background: #C4C4C4;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 661px;
+height: 55px;
+left: 23px;
+top: 657px;
+
+background: #C4C4C4;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Question */
+
+
+position: absolute;
+width: 451px;
+height: 55px;
+left: 58px;
+top: 673px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31.7236px;
+line-height: 37px;
+
+color: #000000;
+
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 661px;
+height: 427px;
+left: 23px;
+top: 730px;
+
+background: #C4C4C4;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 663px;
+height: 56px;
+left: 712px;
+top: 657px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 665px;
+height: 425px;
+left: 710px;
+top: 736px;
+
+background: #C4C4C4;
+
+
+/* mission */
+
+
+position: absolute;
+width: 187px;
+height: 9px;
+left: 765px;
+top: 673px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31.7236px;
+line-height: 37px;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 184px;
+height: 184px;
+left: 112px;
+top: 1255px;
+
+background: #C4C4C4;
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 184px;
+height: 184px;
+left: 608px;
+top: 1255px;
+
+background: #C4C4C4;
+
+
+/* image */
+
+
+position: absolute;
+width: 67px;
+height: 28px;
+left: 666px;
+top: 1333px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 1352px;
+height: 38px;
+left: 23px;
+top: 1179px;
+
+background: #C4C4C4;
+
+
+/* ABOUT US */
+
+
+position: absolute;
+width: 162px;
+height: 13px;
+left: 81px;
+top: 1185px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* jenny */
+
+
+position: absolute;
+width: 61px;
+height: 47px;
+left: 174px;
+top: 1461px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* lucy */
+
+
+position: absolute;
+width: 50px;
+height: 29px;
+left: 675px;
+top: 1461px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+
+
+position: absolute;
+width: 300px;
+height: 139px;
+left: 58px;
+top: 1510px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+
+
+position: absolute;
+width: 300px;
+height: 139px;
+left: 58px;
+top: 1510px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+
+
+position: absolute;
+width: 301px;
+height: 139px;
+left: 549px;
+top: 1510px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+
+
+position: absolute;
+width: 299px;
+height: 123px;
+left: 1037px;
+top: 1510px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* image */
+
+
+position: absolute;
+width: 67px;
+height: 28px;
+left: 171px;
+top: 1332px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* answers */
+
+
+position: absolute;
+width: 386px;
+height: 118px;
+left: 155px;
+top: 884px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+text-align: center;
+
+color: #000000;
+
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* blockquote */
+
+
+position: absolute;
+width: 372px;
+height: 118px;
+left: 863px;
+top: 880px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* STATS!!!!?!?!?!?! */
+
+
+position: absolute;
+width: 874px;
+height: 327px;
+left: 128px;
+top: 187px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31.7236px;
+line-height: 37px;
+
+color: #000000;
