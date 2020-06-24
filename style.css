@@ -44,12 +44,14 @@ h1 {
 .button {
   padding: 2px;
   margin: 5px;
+  
   background-color:
   border: 
   
     
     
 }
+
 
 
 .calm {
@@ -66,7 +68,9 @@ h1 {
   font-size: 30px;
 }
 
-iframe {
+.blue-sky {
   display: flex;
   justify-content: center;
+  padding-left: 30%;
+  padding-bottom: 5%;
 }
