@@ -9,6 +9,9 @@ body {
 
 .white{
   background-color: #b19cd9;
+  background-image: url('https://media1.giphy.com/media/3ohhwoER829Q2hWwx2/giphy.gif');
+  background-size: 25%;
+  text-align: center;
 }
 
 .home-body {
@@ -24,7 +27,6 @@ h1 {
 
 .landing-image{
   justify-content:center;
-  width: 50%;
 }
 
 mark {
