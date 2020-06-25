@@ -230,6 +230,26 @@ nav .logo {
   width: 80%;
 }
 
+.bio {
+  border: 2px solid white;
+  padding: 2%;
+  height: 190px;
+}
+/*.nira-bio {
+  border: 2px solid white;
+  padding: 2%;
+}
+
+.jenny-bio{
+  border: 2px solid white;
+  padding:2%;
+}
+
+.lucy-bio{
+  border: 2px solid white;
+  padding: 2%;
+}
+
 /* 
 .nira-bio {
   display: flex;
