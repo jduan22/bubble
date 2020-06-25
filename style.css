@@ -127,7 +127,7 @@ p{
 
 .div-q{
   background-color: lightblue;
-  padding: 5%;
+  padding:30px;
   width: 380px;
   height: 380px;
   display: inline-block;
@@ -138,7 +138,7 @@ p{
 
 .div-m{
   background-color: #b19cd9;
-  padding: 5%;
+  padding: 30px;
   width: 380px;
   height: 380px;
   display: inline-block;
@@ -172,7 +172,18 @@ nav .logo{
   width 50px
 }
 
-.img{
-  display: flex;
-  justify-content: center;
+.nira{
+  padding: 3%;
+  padding-left: 8%;
+  max-width: 20%;
+}
+
+.jenny{
+  padding: 3%;
+  max-width: 20%;
+}
+
+.lucy {
+  padding: 3%;
+  max-width: 20%;
 }
