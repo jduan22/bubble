@@ -108,14 +108,20 @@ p{
   justify-content: center;
 }
 
-.question{
+.div-q{
   background-color: lightblue;
   padding: 5%;
+  width: 450px;
+  height: 450px;
+  display: inline-block;
 }
 
-.mission{
+.div-m{
   background-color: #b19cd9;
   padding: 5%;
+  width: 450px;
+  height: 450px;
+  display: inline-block;
 }
 
 .listOfResources {
