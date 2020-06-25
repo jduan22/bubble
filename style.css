@@ -121,7 +121,17 @@ p{
 .listOfResources {
   display: flex;
   justify-content: center;
-  padding: 5px;
+  padding-bottom: 20px;
+}
+
+.list1 {
+  padding-left: 20px;
+  flex-flow: column wrap;
+}
+
+h4{
+  padding-left: 20px;
+  text-size: 10px;
 }
 /* ABOUT PAGE. LETS HOPE THIS WORKS
 /* Rectangle 3 
