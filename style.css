@@ -64,7 +64,6 @@ mark {
 
 
 .button:hover {
-  background-color: lightblue;
   cursor: pointer;
 }
 
@@ -128,8 +127,8 @@ p{
 .div-q{
   background-color: lightblue;
   padding: 5%;
-  width: 425px;
-  height: 350px;
+  width: 380px;
+  height: 380px;
   display: inline-block;
   background-color: #b19cd9;
   margin-right: 5%;
@@ -139,8 +138,8 @@ p{
 .div-m{
   background-color: #b19cd9;
   padding: 5%;
-  width: 425px;
-  height: 350px;
+  width: 380px;
+  height: 380px;
   display: inline-block;
   margin-right: 5%;
   margin-left: 5%;
@@ -167,4 +166,6 @@ nav .logo{
    margin-right: auto;
 }
 
-.photos {}
+.img {
+  border-radius: 70%;
+}
