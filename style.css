@@ -4,18 +4,17 @@ body {
   background-color: lightblue;
   padding: 0;
   margin: 0;
-  font-family:'Allerta', sans-serif;
-
+  font-family: "Allerta", sans-serif;
 }
 
 .home-body {
   margin-top: 3%;
 }
 
-.background{
-  background-image: url('https://media1.giphy.com/media/3ohhwoER829Q2hWwx2/giphy.gif');
+.background {
+  background-image: url("https://media1.giphy.com/media/3ohhwoER829Q2hWwx2/giphy.gif");
   background-size: 25%;
-  text-align:center;
+  text-align: center;
 }
 
 h1 {
@@ -33,7 +32,7 @@ mark {
   display: flex;
   justify-content: flex-end;
   background-color: white;
-  position: sticky; 
+  position: sticky;
   top: 0px;
   left: 0px;
   width: 100%;
@@ -47,7 +46,6 @@ mark {
 
 .title {
   padding: 10%;
-  
 }
 .button {
   /*padding: 2px;*/
@@ -63,12 +61,9 @@ mark {
   font-size: 16px;
 }
 
-
 .button:hover {
   cursor: pointer;
 }
-
-
 
 .calm {
   display: flex;
@@ -76,7 +71,7 @@ mark {
   padding-bottom: 5%;
 }
 
-.games-header{
+.games-header {
   display: flex;
   justify-content: center;
   color: navy;
@@ -99,7 +94,7 @@ mark {
   font-size: 30px;
 }
 .resources {
-  font-size:30px
+  font-size: 30px;
 }
 
 .resource-link {
@@ -125,13 +120,13 @@ mark {
 }
 
 h3 {
-  display: flex; 
+  display: flex;
   flex-flow: column wrap;
   text-align: center;
   color: black;
 }
 
-p{
+p {
   display: flex;
   justify-content: center;
 }
@@ -143,7 +138,7 @@ p{
   align-items: center;
 }
 
-.div-q{
+.div-q {
   background-color: lightblue;
   padding: 1%;
   width: 40%;
@@ -154,7 +149,7 @@ p{
   margin-left: 2%;
 }
 
-.div-m{
+.div-m {
   background-color: #b19cd9;
   padding: 1%;
   width: 40%;
@@ -175,20 +170,19 @@ p{
   flex-flow: column wrap;
 }
 
-h4{
+h4 {
   padding-left: 20px;
   text-size: 10px;
 }
 
-nav .logo{
-   height:100%;
-   margin-right: auto;
+nav .logo {
+  height: 100%;
+  margin-right: auto;
 }
 
 .pic {
   height: 200px;
   width: 200px;
-  
 }
 
 .photos {
@@ -198,12 +192,12 @@ nav .logo{
   align-items: center;
   width: 100%;
 }
-.nira{
+.nira {
   padding: 3%;
   max-width: 20%;
 }
 
-.jenny{
+.jenny {
   padding: 3%;
   max-width: 20%;
 }
@@ -221,14 +215,22 @@ nav .logo{
   padding-right: 10%;
 }
 
-.nira-bio{
+.bios {
+/*   display: flex;
+  justify-content: space-around;
+  text-align: center; */
+/*   padding-left: 8%;
+  padding-right: 10%; */
+}
+
+.nira-bio {
   display: flex;
   flex-flow: column wrap;
-  max-width: 20%; 
+  max-width: 20%;
   margin-left: 13%;
   border: 2px solid white;
   padding: 0.8%;
-  margin-top:-18%;
+  margin-top: -18%;
 }
 .jenny-bio {
   display: flex;
@@ -250,6 +252,5 @@ nav .logo{
   padding: 0.8%;
   padding-bottom: 5.25%;
 }
-
 
 /* Lucy is 17 years old and has lived in Portland, Oregon her whole life. She graduated high school this year, and plans to attend PCC in the fall. Her hobbies outside of coding include painting and pottery.*/
