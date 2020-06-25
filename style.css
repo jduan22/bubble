@@ -55,6 +55,7 @@ mark {
   border: none;
   background: lightblue;
   color: white;
+  border-radius: 200px;
   padding: 11px 28px;
   text-align: center;
   text-decoration: none;
@@ -166,6 +167,12 @@ nav .logo{
    margin-right: auto;
 }
 
-.img {
-  border-radius: 70%;
+.pic {
+  height:200px;
+  width 50px
+}
+
+.img{
+  display: flex;
+  justify-content: center;
 }
