@@ -4,13 +4,18 @@ body {
   background-color: lightblue;
   padding: 0;
   margin: 0;
-}
-*{
   font-family:'Allerta', sans-serif;
+
 }
 
 .home-body {
   margin-top: 3%;
+}
+
+.background{
+  background-image: url('https://media1.giphy.com/media/3ohhwoER829Q2hWwx2/giphy.gif');
+  background-size: 25%;
+  text-align:center;
 }
 
 h1 {
@@ -18,7 +23,10 @@ h1 {
   justify-content: center;
   color: navy;
   font-size: 150px;
-  
+}
+
+mark {
+  background-color: white;
 }
 
 .topnav {
