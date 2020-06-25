@@ -213,12 +213,31 @@ nav .logo{
   max-width: 20%;
 }
 
-.bios {
+.names {
   display: flex;
   justify-content: space-around;
   text-align: center;
   padding-left: 8%;
   padding-right: 10%;
+}
+
+.jenny-bio {
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 20%;
+  margin-left: 39%;
+  border: 2px solid white;
+  padding: 0.8%;
+}
+
+.lucy-bio {
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 20%;
+  margin-left: 65%;
+  margin-top: -9%;
+  border: 2px solid white;
+  padding: 0.8%;
 }
 
 /* Lucy is 17 years old and has lived in Portland, Oregon her whole life. She graduated high school this year, and plans to attend PCC in the fall. Her hobbies outside of coding include painting and pottery.*/
