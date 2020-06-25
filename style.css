@@ -7,6 +7,10 @@ body {
   font-family: "Allerta", sans-serif;
 }
 
+.white{
+  background-color: #b19cd9;
+}
+
 .home-body {
   margin-top: 3%;
 }
@@ -16,6 +20,11 @@ h1 {
   justify-content: center;
   color: navy;
   font-size: 150px;
+}
+
+.landing-image{
+  justify-content:center;
+  width: 50%;
 }
 
 mark {
@@ -187,18 +196,18 @@ nav .logo {
   width: 100%;
 }
 .nira {
-  padding: 3%;
-  width: 20%;
+  padding: 2%;
+  width: 65%;
 }
 
 .jenny {
-  padding: 3%;
-  width: 20%;
+  padding: 2%;
+  width: 65%;
 }
 
 .lucy {
-  padding: 3%;
-  width: 20%;
+  padding: 2%;
+  width: 65%;
 }
 
 .names {
