@@ -103,6 +103,20 @@ h3 {
   color: black;
 }
 
+p{
+  display: flex;
+  justify-content: center;
+}
+
+.question{
+  background-color: lightblue;
+  padding: 5%;
+}
+
+.mission{
+  background-color: #b19cd9;
+  padding: 5%;
+}
 /* ABOUT PAGE. LETS HOPE THIS WORKS
 /* Rectangle 3 
 
