@@ -1,14 +1,15 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family:'Allerta', sans-serif;
   background-color: lightblue;
   padding: 0;
   margin: 0;
 }
+*{
+  font-family:'Allerta', sans-serif;
+}
 
 .home-body {
-  border: 2px dotted purple;
   margin-top: 3%;
 }
 
@@ -43,8 +44,9 @@ h1 {
 .button {
   padding: 2px;
   margin: 5px;
-  background-color:
-  border: 
+  border: none;
+  background: lightblue;
+  color: white;
 }
 
 
@@ -142,7 +144,7 @@ h4{
 
 nav .logo{
    height:100%;
-   justify-self: self-start;
+   margin-right: auto;
 }
 /* ABOUT PAGE. LETS HOPE THIS WORKS
 /* Rectangle 3 
