@@ -68,12 +68,14 @@ h1 {
   justify-content: center;
   color: navy;
   font-size: 30px;
+  padding: 3%;
 }
 
 .blue-sky {
   display: flex;
   justify-content: center;
   padding-left: 30%;
+  padding-top: 2%;
   padding-bottom: 5%;
 }
 
@@ -151,7 +153,6 @@ nav .logo{
   background-color: #b19cd9;
   margin-left: 7%;
   margin-right: 2%;
-  padding-bottom: -100px;
 }
 /* ABOUT PAGE. LETS HOPE THIS WORKS
 /* Rectangle 3 
