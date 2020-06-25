@@ -102,7 +102,7 @@ mark {
   font-size:30px
 }
 
-.about-mental-illness {
+.resource-link {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -213,3 +213,12 @@ nav .logo{
   max-width: 20%;
 }
 
+.bios {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding-left: 8%;
+  padding-right: 10%;
+}
+
+/* Lucy is 17 years old and has lived in Portland, Oregon her whole life. She graduated high school this year, and plans to attend PCC in the fall. Her hobbies outside of coding include painting and pottery.*/
