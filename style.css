@@ -142,7 +142,7 @@ h4{
 
 nav .logo{
    height:100%;
-   justify-self: start;
+   justify-self: self-start;
 }
 /* ABOUT PAGE. LETS HOPE THIS WORKS
 /* Rectangle 3 
