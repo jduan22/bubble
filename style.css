@@ -102,6 +102,17 @@ mark {
   font-size:30px
 }
 
+.about-mental-illness {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.text {
+  width: 50%;
+}
+
 .facts {
   display: flex;
   text-align: center;
@@ -175,8 +186,9 @@ nav .logo{
 }
 
 .pic {
-  height:200px;
-  width 50px
+  height: 200px;
+  width: 200px;
+  
 }
 
 .photos {
@@ -201,6 +213,3 @@ nav .logo{
   max-width: 20%;
 }
 
-.creators {
-  padding: 4%;
-}
