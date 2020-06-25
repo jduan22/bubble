@@ -50,12 +50,16 @@ mark {
   
 }
 .button {
-  padding: 2px;
+  /*padding: 2px;*/
   margin: 5px;
   border: none;
   background: lightblue;
   color: white;
-  
+  padding: 11px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 
@@ -124,18 +128,17 @@ p{
 .div-q{
   background-color: lightblue;
   padding: 5%;
-  width: 350px;
+  width: 425px;
   height: 350px;
   display: inline-block;
   background-color: #b19cd9;
-  margin-left: 7%;
-  margin-right: 2%;
+  margin-right
 }
 
 .div-m{
   background-color: #b19cd9;
   padding: 5%;
-  width: 350px;
+  width: 425px;
   height: 350px;
   display: inline-block;
 
