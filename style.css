@@ -132,7 +132,8 @@ p{
   height: 350px;
   display: inline-block;
   background-color: #b19cd9;
-  margin-right
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .div-m{
@@ -141,7 +142,8 @@ p{
   width: 425px;
   height: 350px;
   display: inline-block;
-
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .listOfResources {
@@ -165,3 +167,4 @@ nav .logo{
    margin-right: auto;
 }
 
+.photos {}
