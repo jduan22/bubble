@@ -1,3 +1,5 @@
+
+
 /* CSS files add styling rules to your content */
 
 body {
@@ -192,11 +194,13 @@ nav .logo {
 .bottom-pic {
   height: 200px;
   width: 300px;
-}
 
 
 
-.photos {
+kingsfun {
+  height: 100px;
+  width: 300px;
+}{}photos {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -288,3 +292,4 @@ nav .logo {
 } */
 
 /* Lucy is 17 years old and has lived in Portland, Oregon her whole life. She graduated high school this year, and plans to attend PCC in the fall. Her hobbies outside of coding include painting and pottery.*/
+.
