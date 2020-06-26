@@ -241,6 +241,11 @@ nav .logo {
   padding: 2%;
   height: 190px;
 }
+  
+  .allOfUs{
+    display: flex;
+    flex-direction:row;
+  }
 /*.nira-bio {
   border: 2px solid white;
   padding: 2%;
