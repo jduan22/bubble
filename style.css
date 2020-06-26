@@ -197,15 +197,11 @@ nav .logo {
 
 
 
-kingsfun {
-  height: 100px;
-  width: 300px;
-}{}photos {
+.kingsfund {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  width: 100%;
 }
 .nira {
   padding: 2%;
