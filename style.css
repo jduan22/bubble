@@ -189,6 +189,12 @@ nav .logo {
   height: 200px;
   width: 200px;
 }
+.bottom-pic {
+  height: 200px;
+  width: 300px;
+}
+
+
 
 .photos {
   display: flex;
