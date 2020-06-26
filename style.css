@@ -1,5 +1,3 @@
-
-
 /* CSS files add styling rules to your content */
 
 body {
@@ -9,9 +7,9 @@ body {
   font-family: "Allerta", sans-serif;
 }
 
-.white{
+.white {
   background-color: #b19cd9;
-  background-image: url('https://media1.giphy.com/media/3ohhwoER829Q2hWwx2/giphy.gif');
+  background-image: url("https://media1.giphy.com/media/3ohhwoER829Q2hWwx2/giphy.gif");
   background-size: 25%;
   text-align: center;
 }
@@ -27,8 +25,8 @@ h1 {
   font-size: 150px;
 }
 
-.landing-image{
-  justify-content:center;
+.landing-image {
+  justify-content: center;
 }
 
 mark {
@@ -54,6 +52,7 @@ mark {
 .title {
   padding: 10%;
 }
+
 .button {
   /*padding: 2px;*/
   margin: 5px;
@@ -100,6 +99,7 @@ mark {
   color: navy;
   font-size: 30px;
 }
+
 .resources {
   font-size: 30px;
 }
@@ -182,7 +182,8 @@ h4 {
   text-size: 10px;
 }
 
-nav .logo {
+nav,
+.logo {
   height: 100%;
   margin-right: auto;
 }
@@ -191,11 +192,11 @@ nav .logo {
   height: 200px;
   width: 200px;
 }
+
 .bottom-pic {
   height: 200px;
   width: 300px;
 }
-
 
 .kingsfund {
   display: flex;
@@ -203,30 +204,32 @@ nav .logo {
   justify-content: center;
   align-items: center;
 }
+
 .nira {
   padding: 2%;
   width: 65%;
+  object-fit: contain;
 }
 
 .jenny {
   padding: 2%;
   width: 65%;
+  object-fit: contain;
 }
 
 .lucy {
   padding: 2%;
   width: 65%;
+  object-fit: contain;
 }
 
-.names {
+/* .names {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: flex-start;
   text-align: center;
-/*   padding: 3%; */
-  width: 100%;
-}
+} */
 
 .scholar {
   display: flex;
@@ -234,6 +237,7 @@ nav .logo {
   justify-content: center;
   padding: 3%;
   width: 80%;
+  text-align: center;
 }
 
 .bio {
@@ -241,10 +245,13 @@ nav .logo {
   padding: 2%;
   height: 190px;
 }
-  
-.allOfUs{
-    display: flex;
-    flex-direction:row;
+
+.allOfUs {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
 }
 /*.nira-bio {
   border: 2px solid white;
@@ -293,4 +300,3 @@ nav .logo {
 } */
 
 /* Lucy is 17 years old and has lived in Portland, Oregon her whole life. She graduated high school this year, and plans to attend PCC in the fall. Her hobbies outside of coding include painting and pottery.*/
-.
