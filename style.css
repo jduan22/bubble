@@ -254,63 +254,19 @@ nav,
   text-align: center;
   align-items: center;
 }
-/*.nira-bio {
-  border: 2px solid white;
-  padding: 2%;
-}
 
-.jenny-bio{
-  border: 2px solid white;
-  padding:2%;
-}
-
-.lucy-bio{
-  border: 2px solid white;
-  padding: 2%;
-}
-
-/* 
-.nira-bio {
-  display: flex;
-  flex-flow: column wrap;
-  max-width: 20%;
-  margin-left: 13%;
-  border: 2px solid white;
-  padding: 0.8%;
-  margin-top: -18%;
-}
-.jenny-bio {
-  display: flex;
-  flex-flow: column wrap;
-  max-width: 20%;
-  margin-left: 39%;
-  border: 2px solid white;
-  padding: 0.8%;
-  padding-bottom: 2.5%;
-}
-
-.lucy-bio {
-  display: flex;
-  flex-flow: column wrap;
-  max-width: 20%;
-  margin-left: 65%;
-  margin-top: -18%;
-  border: 2px solid white;
-  padding: 0.8%;
-  padding-bottom: 5.25%;
-} */
-
-/* Lucy is 17 years old and has lived in Portland, Oregon her whole life. She graduated high school this year, and plans to attend PCC in the fall. Her hobbies outside of coding include painting and pottery.*/
-
-/*.howAreYou {
-  padding-top: 15px
-}
-*/
 .button2 {
   margin: 10px;
-  display: ;
-  align-items: center;
-  display: in-line-block
- 
   
+  display: space-around;
+  justify-content: center;
+  display: inline-block;
+  line-height: 20px;
+  text-align: center;  
+}
+
+.emotions {
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
