@@ -290,9 +290,11 @@ padding: 20px ;
   cursor: pointer;
 }
 .more-resources{
-  margin: 30px;
+  margin-top: ;
   justify-content: center;
   text-align:right;
+  display:inline-block;
+  
 }
 .aboutYou{
   display: flex;
@@ -302,11 +304,13 @@ padding: 20px ;
   padding-bottom: 3%;
 }
 
-form
-input[type=text]{
+form{
   display: flex;
   justify-content: center;
-  padding: 12px 20px;
+}
+input[type=text]{
+  padding: 10% 40%;
+  box-sizing: border-box;
 }
 
 .submit{
@@ -323,4 +327,9 @@ input[type=text]{
 }
 .resource-link{
   text-align:
+}
+
+.div-r{
+  display: flex;
+  text-align: left;
 }

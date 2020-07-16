@@ -2,4 +2,12 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-console.log("hi");
+var submit = $(".submit");
+var write= $("#write").val();
+var blank = $("div");
+
+submit.on("click", doSomething);
+
+function doSomething(){
+  blank.text (`Come back tomorrow to journal about your feelings and identify your emotions over a period of time.`);
+}
