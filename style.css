@@ -269,3 +269,11 @@ padding: 20px ;
   text-align: center;
   justify-content: center;
 }
+
+.moodImage{
+  width: 115px;
+  object-fit: contain;
+}
+.button2{
+  
+}
