@@ -337,10 +337,13 @@ input[type=text]{
   display: inline-block;
   margin-right: 2%;
   margin-left: 2%;
-  margin-top:
-}
+  position:relative;
+  bottom:1050px;
+    
+
 
 .articlesInfo{
-  margin:3%;
+  margin-left: 4%;
+  
   
 }
