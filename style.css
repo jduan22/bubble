@@ -326,10 +326,21 @@ input[type=text]{
   width: 45%
 }
 .resource-link{
-  text-align:
+  width: 40%;
+  display: inline-block;
+  margin-right: 2%;
+  margin-left: 2%;
 }
 
 .div-r{
-  display: flex;
-  text-align: left;
+  width: 40%;
+  display: inline-block;
+  margin-right: 2%;
+  margin-left: 2%;
+  margin-top:
+}
+
+.articlesInfo{
+  margin:3%;
+  
 }
