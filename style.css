@@ -292,7 +292,7 @@ padding: 20px ;
 .more-resources{
   margin: 30px;
   justify-content: center;
-  flex-direction: row;
+  text-align:right;
 }
 .aboutYou{
   display: flex;
@@ -300,4 +300,27 @@ padding: 20px ;
   color: navy;
   font-size: 30px;
   padding-bottom: 3%;
+}
+
+form
+input[type=text]{
+  display: flex;
+  justify-content: center;
+  padding: 12px 20px;
+}
+
+.submit{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.text {
+  text-align:left;
+  background:;
+  object-fit:contain;
+  width: 45%
+}
+.resource-link{
+  text-align:
 }
