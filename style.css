@@ -332,15 +332,7 @@ input[type=text]{
   margin-left: 2%;
 }
 
-.more-resources{
-  width: 40%;
-  display: inline-block;
-  margin-right: 2%;
-  margin-left: 2%;
-  position:relative;
-  bottom:1050px;
-    
-}
+
 
 .article-info{
   width: 40%;
