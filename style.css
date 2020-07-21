@@ -340,12 +340,14 @@ input[type=text]{
   position:relative;
   bottom:1050px;
     
+}
 
-
-.articlesInfo{
-  
-  
-  
-  
+.article-info{
+  width: 40%;
+  display: inline-block;
+  margin-right: 2%;
+  margin-left: 2%;
+  position:relative;
+  bottom:1050px;
 }
   
