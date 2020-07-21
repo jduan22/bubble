@@ -9,5 +9,5 @@ var blank = $("div");
 submit.on("click", doSomething);
 
 function doSomething(){
-  blank.text (`Come back tomorrow to journal about your feelings and identify your emotions over a period of time.`);
+  location.href = "howAreYouCopy.html";
 }
