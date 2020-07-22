@@ -294,6 +294,7 @@ padding: 20px ;
   justify-content: center;
   text-align:right;
   display:inline-block;
+  flex-direction: column
   
 }
 .aboutYou{
@@ -341,8 +342,20 @@ input[type=text]{
   margin-left: 2%;
   position:relative;
   bottom:1050px;
+  
+}
+.div-r{
+flex-direction: column;
+  
 }
 .interactive-link{
   align-items: flex-start;
   justify-content: right
+}
+.tired-video{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-left: 30%;
+  margin-bottom: 2%;
 }
