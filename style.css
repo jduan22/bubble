@@ -359,3 +359,14 @@ flex-direction: column;
   margin-left: 30%;
   margin-bottom: 2%;
 }
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
