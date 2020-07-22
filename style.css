@@ -349,8 +349,8 @@ flex-direction: column;
   
 }
 .interactive-link{
-  align-items: flex-start;
-  justify-content: right
+  align-items: center;
+  justify-content: center;
 }
 .tired-video{
   display: flex;
