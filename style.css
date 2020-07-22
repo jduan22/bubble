@@ -353,7 +353,7 @@ flex-direction: column;
  justify-content:center;
    align-content:center;
   flex-direction:column;
-  
+  margin-right: 5000px
 }
 
 
@@ -379,5 +379,6 @@ flex-direction: column;
 .candy{
   display: flex;
   max-width: 100%;
-  height: auto;
+  height: 300px;
+  padding-left: 30%;
 }
