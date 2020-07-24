@@ -110,6 +110,7 @@ mark {
   align-items: right;
   width: 100%;
 }
+
 .text {
   width: 50%;
 }
@@ -320,18 +321,7 @@ input[type=text]{
   margin: auto;
 }
 
-.text {
-  text-align:left;
-  background:;
-  object-fit:contain;
-  width: 45%
-}
-.resource-link{
-  width: 40%;
-  display: ;
-  margin-right: 2%;
-  margin-left: 2%;
-}
+
 
 
 
@@ -383,7 +373,9 @@ flex-direction: column;
   margin-bottom: 5%;
 }
 .MHD{
-  display:flex;
-  flex-direction:column
- 
+  width: 40%;
+  display: ;
+  margin-right: 2%;
+  margin-left: 2%;
 }
+ 
