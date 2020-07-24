@@ -114,7 +114,6 @@ mark {
 .text {
   width: 90%;
 
-  margin-left:
 }
 
 
@@ -377,5 +376,10 @@ flex-direction: column;
 }
 .list2{
   padding-left:30%
+}
+.nervous-image{
+  width: 40%;
+  display: flex;
+  padding-left: 30%;
 }
  
