@@ -348,13 +348,7 @@ input[type=text]{
 flex-direction: column;
   
 }
-.interactive-link{
-  display:flex;
- justify-content:center;
-   align-content:center;
-  flex-direction:column;
-  margin-right: 5000px
-}
+
 
 
 .tired-video{
@@ -389,7 +383,7 @@ flex-direction: column;
   margin-bottom: 5%;
 }
 .MHD{
-  display:inline-block;
-  text-align: center
+  display:flex;
+  flex-direction:column
  
 }
