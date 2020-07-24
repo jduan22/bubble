@@ -87,7 +87,7 @@ mark {
 .blue-sky {
   display: flex;
   justify-content: center;
-  padding-left: 30%;
+  padding-left: %;
   padding-top: 2%;
   padding-bottom: 5%;
 }
@@ -328,7 +328,7 @@ input[type=text]{
 }
 .resource-link{
   width: 40%;
-  display: inline-block;
+  display: ;
   margin-right: 2%;
   margin-left: 2%;
 }
@@ -381,4 +381,15 @@ flex-direction: column;
   max-width: 100%;
   height: 300px;
   padding-left: 30%;
+}
+
+.happy-video{
+  display: flex;
+  padding-left: 20%;
+  margin-bottom: 5%;
+}
+.MHD{
+  display:inline-block;
+  text-align: center
+ 
 }
