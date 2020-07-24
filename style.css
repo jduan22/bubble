@@ -112,8 +112,11 @@ mark {
 }
 
 .text {
-  width: 50%;
+  width: 90%;
+
+  margin-left:
 }
+
 
 .facts {
   display: flex;
@@ -372,10 +375,7 @@ flex-direction: column;
   padding-left: 20%;
   margin-bottom: 5%;
 }
-.MHD{
-  width: 40%;
-  display: ;
-  margin-right: 2%;
-  margin-left: 2%;
+.list2{
+  padding-left:30%
 }
  
