@@ -350,6 +350,9 @@ input[type="text"] {
   padding-left: 32%;
 
 }
+.header2{
+  padding-left: 32%
+}
 
 /* Clear floats after the columns */
 .row:after {
@@ -371,9 +374,14 @@ input[type="text"] {
   margin-bottom: 5%;
 }
 .list2 {
-  padding-left: 10%;
-  padding-right:20px
+  padding-left: 2.5%
+  padding-right:5%;
 }
+.resource-link{
+  padding-left: 5%;
+  padding-right: 2.5%;
+}
+
 .nervous-image {
   width: 40%;
   display: flex;
