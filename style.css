@@ -109,14 +109,13 @@ mark {
   justify-content: right;
   align-items: right;
   width: 100%;
-  padding-left:25px;
+  padding-left: 25px;
 }
 
 .text {
   width: 80%;
-padding-left: 25px
+  padding-left: 10px;
 }
-
 
 .facts {
   display: flex;
@@ -263,8 +262,8 @@ nav,
   justify-content: center;
   display: inline-block;
   line-height: 20px;
-  text-align: center;  
-padding: 20px ;
+  text-align: center;
+  padding: 20px;
 }
 
 .emotions {
@@ -273,11 +272,11 @@ padding: 20px ;
   justify-content: center;
 }
 
-.moodImage{
+.moodImage {
   width: 115px;
   object-fit: contain;
 }
-.button2{
+.button2 {
   margin: 5px;
   border: none;
   background: white;
@@ -288,20 +287,19 @@ padding: 20px ;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .button2:hover {
   cursor: pointer;
 }
-.more-resources{
+.more-resources {
   margin-top: ;
   justify-content: center;
-  text-align:right;
-  display:inline-block;
-  flex-direction: column
-  
+  text-align: right;
+  display: inline-block;
+  flex-direction: column;
 }
-.aboutYou{
+.aboutYou {
   display: flex;
   justify-content: center;
   color: navy;
@@ -309,42 +307,34 @@ padding: 20px ;
   padding-bottom: 3%;
 }
 
-form{
+form {
   display: flex;
   justify-content: center;
 }
-input[type=text]{
+input[type="text"] {
   padding: 10% 40%;
   box-sizing: border-box;
 }
 
-.submit{
+.submit {
   display: flex;
   justify-content: center;
   margin: auto;
 }
 
-
-
-
-
-.article-info{
+.article-info {
   width: 40%;
   display: inline-block;
   margin-right: 2%;
   margin-left: 2%;
-  position:relative;
-  bottom:1050px;
-  
+  position: relative;
+  bottom: 1050px;
 }
-.div-r{
-flex-direction: column;
-  
+.div-r {
+  flex-direction: column;
 }
 
-
-
-.tired-video{
+.tired-video {
   display: flex;
   justify-content: center;
   align-content: center;
@@ -354,6 +344,7 @@ flex-direction: column;
 .column {
   float: left;
   width: 50%;
+  
 }
 
 /* Clear floats after the columns */
@@ -363,24 +354,28 @@ flex-direction: column;
   clear: both;
 }
 
-.candy{
+.candy {
   display: flex;
   max-width: 100%;
   height: 300px;
   padding-left: 30%;
 }
 
-.happy-video{
+.happy-video {
   display: flex;
   padding-left: 20%;
   margin-bottom: 5%;
 }
-.list2{
-  padding-left:10%
+.list2 {
+  padding-left: 10%;
 }
-.nervous-image{
+.nervous-image {
   width: 40%;
   display: flex;
   padding-left: 30%;
 }
- 
+.sad-image{
+  max-width: 40%;
+  height: auto;
+  padding-left: 30%;
+}
