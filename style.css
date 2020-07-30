@@ -380,7 +380,9 @@ input[type="text"] {
 }
 .list2 {
   padding-left: 2.5%
-  padding-right:5%;
+  margin-right: 5%;
+  padding-top: 5%;
+  padding-right: 6%
 }
 .resource-link{
   padding-left: 5%;
@@ -401,4 +403,12 @@ input[type="text"] {
   max-width: 40%;
   height: auto;
   padding-left: 30%;
+}
+
+
+
+.listTwoGames{
+  padding-left:;
+  
+  
 }
