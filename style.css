@@ -177,6 +177,7 @@ p {
 .list1 {
   padding-left: 20px;
   flex-flow: column wrap;
+  
 }
 
 h4 {
@@ -322,13 +323,14 @@ input[type="text"] {
   margin: auto;
 }
 
-.article-info {
+.articles-info {
   width: 40%;
   display: inline-block;
   margin-right: 2%;
   margin-left: 2%;
   position: relative;
   bottom: 1050px;
+ 
 }
 .div-r {
   flex-direction: column;
@@ -345,9 +347,11 @@ input[type="text"] {
   float: left;
   width: 50%;
   
+  
 }
 .header{
   padding-left: 32%;
+  border: 2px solid blue
 
 }
 .header2{
