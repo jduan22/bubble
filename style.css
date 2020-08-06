@@ -432,6 +432,7 @@ input[type="text"] {
   background-color: #b19cd9;
  display:flex;
   justify-content:center;
+  align-items:center
 }
 /* Bordered form */
 .logging {
@@ -497,9 +498,13 @@ span.psw {
 .loggingOn{
   display: flex;
   justify-content:center;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 .loggingTitle{
   display:flex;
   justify-content:center;
+  color: navy;
+  font-size: 30px;
+  margin-bottom: 5%;
+  margin-top: 3%;
 }
