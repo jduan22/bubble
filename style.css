@@ -417,21 +417,24 @@ input[type="text"] {
 .footer{
   background-color: white;
   height:40%;
-  padding:20px
+  padding:20px;
+  position: relative
+    
   
 }
 
 .footerButton{
-  
-  background-color: ;
+  display: flex;
+  background-color: #b19cd9;
+  align-text:center;
 }
 /* Bordered form */
-form {
+.logging {
   border: 3px solid #f1f1f1;
 }
 
 /* Full-width inputs */
-input[type=text], input[type=password] {
+input[type=usern], input[type=passw] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -441,7 +444,7 @@ input[type=text], input[type=password] {
 }
 
 /* Set a style for all buttons */
-button {
+.submission {
   background-color: #4CAF50;
   color: white;
   padding: 14px 20px;
