@@ -415,18 +415,23 @@ input[type="text"] {
 }
 
 .footer{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  text-align:center;
   background-color: white;
   height:40%;
   padding:20px;
-  position: relative
+  position: sticky;
     
   
 }
 
 .footerButton{
-  display: flex;
+
   background-color: #b19cd9;
-  align-text:center;
+ display:flex;
+  justify-content:center;
 }
 /* Bordered form */
 .logging {
@@ -445,7 +450,7 @@ input[type=usern], input[type=passw] {
 
 /* Set a style for all buttons */
 .submission {
-  background-color: #4CAF50;
+  background-color: #b19cd9 ;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -487,4 +492,14 @@ img.avatar {
 span.psw {
   float: right;
   padding-top: 16px;
+}
+
+.loggingOn{
+  display: flex;
+  justify-content:center;
+  margin-top: 10%;
+}
+.loggingTitle{
+  display:flex;
+  justify-content:center;
 }

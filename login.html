@@ -48,25 +48,33 @@
         <!--       <i class="fa fa-bars"></i></a> -->
       </nav>
     </div>
-    <form class="logging" action="action_page.php" method="post">
-      <div class="login">
-        <label for="uname"><b>Username</b></label>
-        <input
-          type="usern"
-          placeholder="Enter Username"
-          name="uname"
-          required
-        />
+    <h1 class="loggingTitle"><mark>Login Here</mark></h1>
+    <div class="loggingOn">
+      <form class="logging" action="action_page.php" method="post">
+        <div class="login">
+          <label for="uname"><b>Username</b></label>
+          <input
+            type="usern"
+            placeholder="Enter Username"
+            name="uname"
+            required
+          />
 
-        <label for="psw"><b>Password</b></label>
-        <input type="passw" placeholder="Enter Password" name="psw" required />
+          <label for="psw"><b>Password</b></label>
+          <input
+            type="passw"
+            placeholder="Enter Password"
+            name="psw"
+            required
+          />
 
-        <button class="submission">Login</button>
-        <label>
-          <input type="checkbox" checked="checked" name="remember" /> Remember
-          me
-        </label>
-      </div>
-    </form>
+          <button class="submission">Login</button>
+          <label>
+            <input type="checkbox" checked="checked" name="remember" /> Remember
+            me
+          </label>
+        </div>
+      </form>
+    </div>
   </body>
 </html>
