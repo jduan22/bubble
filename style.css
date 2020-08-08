@@ -429,7 +429,8 @@ input[type="text"] {
 
 .footerButton{
 
-  background-color: #b19cd9;
+  background-color:;
+  border:none;
  display:flex;
   justify-content:center;
   align-items:center
@@ -507,4 +508,7 @@ span.psw {
   font-size: 30px;
   margin-bottom: 5%;
   margin-top: 3%;
+}
+.footerbutton{
+  justify-content:center
 }
