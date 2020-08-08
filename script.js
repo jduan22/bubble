@@ -11,3 +11,6 @@ submit.on("click", doSomething);
 function doSomething(){
   location.href = "howAreYouCopy.html";
 }
+
+const loginForm = document.getElementByID("loginForm");
+const loginButton = document.getElementByID("")
