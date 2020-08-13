@@ -509,6 +509,12 @@ span.psw {
   margin-bottom: 5%;
   margin-top: 3%;
 }
-.footerbutton{
-  justify-content:center
+.footerButton{
+  justify-content:center;
+  margin:0 auto;
+  margin-right:;
+  float:left;
+  text-align:center;
+
+    
 }
