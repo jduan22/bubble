@@ -427,13 +427,16 @@ input[type="text"] {
   
 }
 
+.footerLinks{
+padding-left: 30%;
+}
 .footerButton{
 
-  background-color:;
+  background-color:white;
   border:none;
- display:flex;
+  display:flex;
   justify-content:center;
-  align-items:center
+  margin-left: 30%;
 }
 /* Bordered form */
 .logging {
@@ -509,12 +512,4 @@ span.psw {
   margin-bottom: 5%;
   margin-top: 3%;
 }
-.footerButton{
-  justify-content:center;
-  margin:0 auto;
-  margin-right:;
-  float:left;
-  text-align:center;
 
-    
-}
