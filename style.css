@@ -411,7 +411,7 @@ input[type="text"] {
   background-color: white;
   height: 40%;
   padding: 20px;
-  padding-left: 500px;
+  padding-left: 46%;
   position: sticky;
 }
 
@@ -424,6 +424,11 @@ input[type="text"] {
   display: flex;
   justify-content: center;
   margin-left: 30%;
+  font-size: 16px;
+  font-family: "Allerta", sans-serif;
+}
+.footerButton:hover{
+   cursor: pointer;
 }
 /* Bordered form */
 .logging {
