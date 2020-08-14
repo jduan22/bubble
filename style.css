@@ -177,7 +177,6 @@ p {
 .list1 {
   padding-left: 20px;
   flex-flow: column wrap;
-  
 }
 
 h4 {
@@ -330,7 +329,6 @@ input[type="text"] {
   margin-left: 2%;
   position: relative;
   bottom: 1050px;
- 
 }
 .div-r {
   flex-direction: column;
@@ -346,18 +344,13 @@ input[type="text"] {
 .column {
   float: left;
   width: 50%;
- 
-  
-  
 }
-.header{
+.header {
   padding-left: 32%;
-  border: 
- 
-
+  border: ;
 }
-.header2{
-  padding-left: 32%
+.header2 {
+  padding-left: 32%;
 }
 
 /* Clear floats after the columns */
@@ -380,12 +373,12 @@ input[type="text"] {
   margin-bottom: 5%;
 }
 .list2 {
-  padding-left: 2.5%
+  padding-left: 2.5%;
   margin-right: 5%;
   padding-top: 5%;
-  padding-right: 6%
+  padding-right: 6%;
 }
-.resource-link{
+.resource-link {
   padding-left: 5%;
   padding-right: 2.5%;
 }
@@ -395,47 +388,41 @@ input[type="text"] {
   display: flex;
   padding-left: 30%;
 }
-.sad-image{
+.sad-image {
   max-width: 40%;
   height: auto;
   padding-left: 30%;
 }
-.anger-image{
+.anger-image {
   max-width: 40%;
   height: auto;
   padding-left: 30%;
 }
 
-
-
-.listTwoGames{
-  padding-left:;
-  
-  
+.listTwoGames {
+  padding-left: ;
 }
 
-.footer{
+.footer {
   display: flex;
   align-items: center;
-  justify-content:center;
-  text-align:center;
+  justify-content: center;
+  text-align: center;
   background-color: white;
-  height:40%;
-  padding:20px;
+  height: 40%;
+  padding: 20px;
+  padding-left: 500px;
   position: sticky;
-    
-  
 }
 
-.footerLinks{
-padding-left: 30%;
+.footerLinks {
+  padding-left: 30%;
 }
-.footerButton{
-
-  background-color:white;
-  border:none;
-  display:flex;
-  justify-content:center;
+.footerButton {
+  background-color: white;
+  border: none;
+  display: flex;
+  justify-content: center;
   margin-left: 30%;
 }
 /* Bordered form */
@@ -444,7 +431,8 @@ padding-left: 30%;
 }
 
 /* Full-width inputs */
-input[type=usern], input[type=passw] {
+input[type="usern"],
+input[type="passw"] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -455,7 +443,7 @@ input[type=usern], input[type=passw] {
 
 /* Set a style for all buttons */
 .submission {
-  background-color: #b19cd9 ;
+  background-color: #b19cd9;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -489,7 +477,7 @@ img.avatar {
 }
 
 /* Add padding to containers */
-.login{
+.login {
   padding: 16px;
 }
 
@@ -499,17 +487,21 @@ span.psw {
   padding-top: 16px;
 }
 
-.loggingOn{
+.loggingOn {
   display: flex;
-  justify-content:center;
+  justify-content: center;
   margin-top: 5%;
 }
-.loggingTitle{
-  display:flex;
-  justify-content:center;
+.loggingTitle {
+  display: flex;
+  justify-content: center;
   color: navy;
   font-size: 30px;
   margin-bottom: 5%;
   margin-top: 3%;
 }
 
+.end {
+  display: flex;
+  justify-content: center;
+}
