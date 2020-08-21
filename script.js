@@ -26,4 +26,4 @@ loginButton.addEventListener("click", (e) => {
     } else {
         console.log("error");
     }
-})
+}
