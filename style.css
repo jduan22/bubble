@@ -207,13 +207,6 @@ nav,
   align-items: center;
 }
 
-.nira {
-  padding-left: 17.5%;
-  padding-right: 17.5%;
-  width: 65%;
-  object-fit: contain;
-}
-
 .jenny {
   padding-left: 17.5%;
   padding-right: 17.5%;
@@ -427,8 +420,8 @@ input[type="text"] {
   font-size: 16px;
   font-family: "Allerta", sans-serif;
 }
-.footerButton:hover{
-   cursor: pointer;
+.footerButton:hover {
+  cursor: pointer;
 }
 /* Bordered form */
 .logging {
